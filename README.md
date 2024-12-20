@@ -31,7 +31,7 @@ The model was trained on the CamVid dataset consisting of 367 images for trainin
 <br/>
 
 
-<br/><br/>
+<br/>
 Below are results on some images of the CamVid validation dataset. leftmost is the segmented output, middle is the original image resized to 224 x 224 resolution and rightmost is the segmentation overlayed on original RGB image. The model and was trained on original images and ground truth resized to 224 x 224 resolution. 
 <br/><br/>
 
