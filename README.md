@@ -31,10 +31,62 @@ The model was trained on the CamVid dataset consisting of 367 images for trainin
 <br/>
 
 
+<br/><br/>
+Below are results on some images of the CamVid validation dataset. leftmost is the segmented output, middle is the original image resized to 224 x 224 resolution and rightmost is the segmentation overlayed on original RGB image. The model and was trained on original images and ground truth resized to 224 x 224 resolution. 
+<br/><br/>
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/10.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/101.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/108.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/111.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/124.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/133.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/136.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/42.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/46.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/47.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/49.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/52.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/55.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/56.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/58.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/6.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/65.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/67.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/68.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/70.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/78.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/85.jpg)
+
+![Result on CamVid validation set image](https://github.com/prasadkush/UperNet/blob/main/CamVid%20results/96.jpg)
+
+<br/><br/>
 ## Acknowledgements
 
+<br/><br/>
 Some code for UperNet was taken from MMsegmentation (Copyright 2020 The MMSegmentation Authors), OpenMMLab Semantic Segmentation Toolbox and Benchmark (https://github.com/open-mmlab/mmsegmentation) and PyTorch UperNet implementation and modified a bit. Some code for Swin Trransformer was taken from Microsoft's official PyTorch implementation of Swin Transformer (https://github.com/microsoft/Swin-Transformer) Copyright (c) Microsoft Corporation and https://github.com/berniwal/swin-transformer-pytorch and modified.
-
+<br/><br/>
 
 ## References
 
