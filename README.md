@@ -93,6 +93,7 @@ Some code for UperNet was taken from MMsegmentation (Copyright 2020 The MMSegmen
 <br/>
 [1] Xiao, Tete, Yingcheng Liu, Bolei Zhou, Yuning Jiang, and Jian Sun. "Unified perceptual parsing for scene understanding." In Proceedings of the European conference on computer vision (ECCV), pp. 418-434. 2018.
 
+
 [2] Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., ... & Guo, B. (2021). Swin transformer: Hierarchical vision transformer using shifted windows. In Proceedings of the IEEE/CVF international conference on computer vision (pp. 10012-10022).
 
 [3] https://github.com/yassouali/pytorch-segmentation/blob/master/models/upernet.py
